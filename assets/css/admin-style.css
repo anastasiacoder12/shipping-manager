@@ -1,0 +1,27 @@
+
+.usp-tab-content {
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ccd0d4;
+    border-top: none; 
+    border-radius: 0 0 4px 4px;
+}
+
+
+#shipping-areas-table {
+    margin-top: 10px;
+}
+
+#shipping-areas-table input {
+    width: 100%;
+}
+
+
+.remove-row {
+    color: #d63638 !important;
+    border-color: #d63638 !important;
+}
+
+.remove-row:hover {
+    background: #fbe9e9 !important;
+}
